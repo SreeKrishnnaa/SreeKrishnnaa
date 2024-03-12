@@ -1,4 +1,4 @@
-### Hi there 👋 here you'll find information about me and my projects.
+# Hi there 👋 here you'll find information about me and my projects.
 
 
 ## About Me
