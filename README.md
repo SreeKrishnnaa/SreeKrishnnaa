@@ -1,16 +1,47 @@
-### Hi there 👋
+### Hi there 👋 here you'll find information about me and my projects.
 
-<!--
-**SreeKrishnnaa/SreeKrishnnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate college student with a keen interest in web development. I enjoy coding and solving problems. Currently, I'm focusing on expanding my skills and knowledge in various areas of web development.
+
+## Portfolio
+
+Check out my portfolio to see some of my projects and creations:
+[View Portfolio](https://sreekrishnnaa.github.io/Portfolio/)
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+- [Hound Vault](#) - Hound Vault is a simple file hosting website created using MERN Stack. Users can upload and store files online after creating their profile.
+- [Bilingual E-Bill generator](#) - This Bilingual E-Bill generator is a simple application created using JAVA that allows users to enter their details and generates bill in 2 languages.
+- [Cine-Ticket reservation system](#) - Cine-Ticket Reservation System is a java application that allows users to book tickets and stores data of users and bookings separately.
+- [Online Integrated platform for students](#) - A platform for students to post their college projects and to find already existing ideas. Collab with students all over india through this plateform
+
+  Feel free to explore more projects on my profile !!
+
+## Contact Me
+
+If you'd like to get in touch with me, feel free to reach out:
+
+- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/sree-krishnnaa-anand-8a029626a)
+- [Twitter](https://twitter.com/i/flow/login?redirect_after_login=%2FSreeKrishnnaa)
+- [Instagram](https://instagram.com/satirical_imp?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
+
+### Proficiencies/Skills
+
+| Skill    | Proficiency |
+| -------- | ----------- |
+| C        | █████░░░░░  |
+| JAVA     | █████████░░ |
+| DS       | ██████░░░░  |
+| HTML     | ██████░░░░  |
+| CSS      | ██████░░░░  |
+| JS       | ████████░░  |
+| REACT JS | ███████░░░  |
+| MySQL    | █████░░░░░  |
+| MONGO DB | ██████░░░░  |
+
+Let's connect and collaborate on exciting projects!
