@@ -1,4 +1,4 @@
-# Hi there 👋 here you'll find information about me and my projects.
+## Hi there👋 here you'll find information about me and my projects.
 
 
 ## About Me
@@ -25,7 +25,7 @@ Here are some of the projects I've worked on:
 
 If you'd like to get in touch with me, feel free to reach out:
 
-- [Email](mailto:your.email@example.com)
+- [Email]([mailto:your.email@example.com](https://mail.google.com/mail/?view=cm&fs=1&to=sreekrishnnaa2003@gmail.com))
 - [LinkedIn](https://www.linkedin.com/in/sree-krishnnaa-anand-8a029626a)
 - [Twitter](https://twitter.com/i/flow/login?redirect_after_login=%2FSreeKrishnnaa)
 - [Instagram](https://instagram.com/satirical_imp?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
