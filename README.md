@@ -8,7 +8,7 @@ I'm a passionate college student with a keen interest in web development. I enjo
 ## Portfolio
 
 Check out my portfolio to see some of my projects and creations:
-[View Portfolio](https://sreekrishnnaa.github.io/Portfolio/)
+[View Portfolio](https://sreekrishnnaa.github.io/Portfolio1/)
 
 ## Projects
 
