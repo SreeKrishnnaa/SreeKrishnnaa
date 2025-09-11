@@ -53,17 +53,18 @@ Want to connect or collaborate? Reach out here:
 
 ## 🛠️ Skills & Proficiencies  
 
-| Technology | Proficiency |
-|------------|-------------|
-| C          | ![Progress](https://progress-bar.dev/60/?scale=100&suffix=%) |
-| Java       | ![Progress](https://progress-bar.dev/80/?scale=100&suffix=%) |
-| Data Structures | ![Progress](https://progress-bar.dev/50/?scale=100&suffix=%) |
-| HTML       | ![Progress](https://progress-bar.dev/70/?scale=100&suffix=%) |
-| CSS        | ![Progress](https://progress-bar.dev/65/?scale=100&suffix=%) |
-| JavaScript | ![Progress](https://progress-bar.dev/70/?scale=100&suffix=%) |
-| React.js   | ![Progress](https://progress-bar.dev/65/?scale=100&suffix=%) |
-| MySQL      | ![Progress](https://progress-bar.dev/50/?scale=100&suffix=%) |
-| MongoDB    | ![Progress](https://progress-bar.dev/45/?scale=100&suffix=%) |
+| Technology   | Proficiency |
+|--------------|-------------|
+| **C**        | ![C 60%](https://img.shields.io/badge/C-60%25-yellow?style=for-the-badge) |
+| **Java**     | ![Java 80%](https://img.shields.io/badge/Java-80%25-brightgreen?style=for-the-badge) |
+| **Data Structures** | ![DS 50%](https://img.shields.io/badge/DS-50%25-orange?style=for-the-badge) |
+| **HTML**     | ![HTML 70%](https://img.shields.io/badge/HTML-70%25-blue?style=for-the-badge) |
+| **CSS**      | ![CSS 65%](https://img.shields.io/badge/CSS-65%25-blueviolet?style=for-the-badge) |
+| **JavaScript** | ![JS 70%](https://img.shields.io/badge/JavaScript-70%25-yellowgreen?style=for-the-badge) |
+| **React.js** | ![React 65%](https://img.shields.io/badge/React-65%25-blue?style=for-the-badge) |
+| **MySQL**    | ![MySQL 50%](https://img.shields.io/badge/MySQL-50%25-lightgrey?style=for-the-badge) |
+| **MongoDB**  | ![MongoDB 45%](https://img.shields.io/badge/MongoDB-45%25-green?style=for-the-badge) |
+
 
 ---
 
