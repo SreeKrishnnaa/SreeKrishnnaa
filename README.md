@@ -1,53 +1,70 @@
+# Hi there! 👋  
 
+Welcome to my GitHub profile! Here you’ll find information about me, my projects, and the skills I’m building along the way. 🚀  
+
+---
+
+## 👨‍💻 About Me  
+
+I’m a passionate college student with a strong interest in **web development**.  
+I enjoy solving problems through code and continuously learning new technologies.  
+Right now, I’m focused on growing my skills across full-stack development.  
 
 ---
 
-## Hi there! 👋 Here you'll find information about me and my projects.
+## 🌐 Portfolio  
 
-### About Me
+Check out my personal portfolio to explore some of my work:  
 
-I'm a passionate college student with a keen interest in web development. I enjoy coding and solving problems. Currently, I'm focusing on expanding my skills and knowledge in various areas of web development.
-
-### Portfolio
-
-Check out my portfolio to see some of my projects and creations:
-
-[![View Portfolio](https://img.shields.io/badge/View_Portfolio-My_Portfolio-orange?style=for-the-badge&logo=github)](https://sreekrishnnaa.github.io/Portfoilio1/)
-
-### Projects
-
-Here are some of the projects I've worked on:
-
-- [![Hound Vault](https://img.shields.io/badge/Hound_Vault-File_Hosting-blue?style=for-the-badge&logo=react)](https://hound-vault.vercel.app/) - Hound Vault is a simple file hosting website created using MERN Stack. Users can upload and store files online after creating their profile.
-- [![Bilingual E-Bill Generator](https://img.shields.io/badge/Bilingual_E_Bill_Generator-JAVA-green?style=for-the-badge&logo=java)](https://github.com/SreeKrishnnaa/E-bill-generator) - This Bilingual E-Bill generator is a simple application created using JAVA that allows users to enter their details and generates bills in two languages.
-- [![Cine-Ticket Reservation System](https://img.shields.io/badge/Cine_Ticket_Reservation-JAVA-red?style=for-the-badge&logo=java)](https://github.com/SreeKrishnnaa/miniproject/tree/main/717821E151/CineTicketReservation) - Cine-Ticket Reservation System is a Java application that allows users to book tickets and stores user and booking data separately.
-- [![Online Integrated Platform for Students](https://img.shields.io/badge/Online_Integrated_Platform-Web-blueviolet?style=for-the-badge&logo=github)](https://github.com/SreeKrishnnaa/SIH_Project) - A platform for students to post their college projects and find existing ideas. Collaborate with students all over India through this platform.
-
-Feel free to explore more projects on my profile!
-
-### Contact Me
-
-If you'd like to get in touch with me, feel free to reach out:
-
-- [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:sreekrishnnaa2003@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sree-krishnnaa-anand-8a029626a)
-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/i/flow/login?redirect_after_login=%2FSreeKrishnnaa)
-- [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/satirical_imp?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
-
-### Proficiencies/Skills
-
-| Skill    | Proficiency |
-| -------- | ----------- |
-| C        | ![Progress](https://progress-bar.dev/60/?scale=10&suffix=%) |
-| JAVA     | ![Progress](https://progress-bar.dev/80/?scale=10&suffix=%) |
-| DS       | ![Progress](https://progress-bar.dev/50/?scale=10&suffix=%) |
-| HTML     | ![Progress](https://progress-bar.dev/60/?scale=10&suffix=%) |
-| CSS      | ![Progress](https://progress-bar.dev/60/?scale=10&suffix=%) |
-| JS       | ![Progress](https://progress-bar.dev/70/?scale=10&suffix=%) |
-| REACT JS | ![Progress](https://progress-bar.dev/60/?scale=10&suffix=%) |
-| MySQL    | ![Progress](https://progress-bar.dev/40/?scale=10&suffix=%) |
-| MONGO DB | ![Progress](https://progress-bar.dev/40/?scale=10&suffix=%) |
-
-Let's connect and collaborate on exciting projects!
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-My_Portfolio-orange?style=for-the-badge&logo=github)](https://sreekrishnnaa.github.io/Portfoilio1/)  
 
 ---
+
+## 🚀 Featured Projects  
+
+Here are a few of the projects I’ve worked on:  
+
+- [![Hound Vault](https://img.shields.io/badge/Hound_Vault-File_Hosting-blue?style=for-the-badge&logo=react)](https://hound-vault.vercel.app/)  
+  A simple **file hosting website** built with the **MERN stack**. Users can create profiles, upload, and store files securely.  
+
+- [![Bilingual E-Bill Generator](https://img.shields.io/badge/Bilingual_E_Bill_Generator-JAVA-green?style=for-the-badge&logo=java)](https://github.com/SreeKrishnnaa/E-bill-generator)  
+  A **Java application** that generates bills in two languages based on user input.  
+
+- [![Cine-Ticket Reservation System](https://img.shields.io/badge/Cine_Ticket_Reservation-JAVA-red?style=for-the-badge&logo=java)](https://github.com/SreeKrishnnaa/miniproject/tree/main/717821E151/CineTicketReservation)  
+  A **Java-based ticket booking system** that manages users and bookings separately.  
+
+- [![Online Integrated Platform for Students](https://img.shields.io/badge/Student_Platform-Web-blueviolet?style=for-the-badge&logo=github)](https://github.com/SreeKrishnnaa/SIH_Project)  
+  A platform where students can **share and explore projects**, collaborate, and connect across India.  
+
+👉 Find more of my work in my [repositories](https://github.com/SreeKrishnnaa?tab=repositories).  
+
+---
+
+## 📫 Contact Me  
+
+Want to connect or collaborate? Reach out here:  
+
+- [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sreekrishnnaa2003@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sree-krishnnaa-anand-8a029626a)  
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/i/flow/login?redirect_after_login=%2FSreeKrishnnaa)  
+- [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/satirical_imp)  
+
+---
+
+## 🛠️ Skills & Proficiencies  
+
+| Technology | Proficiency |
+|------------|-------------|
+| C          | ![Progress](https://progress-bar.dev/60/?scale=100&suffix=%) |
+| Java       | ![Progress](https://progress-bar.dev/80/?scale=100&suffix=%) |
+| Data Structures | ![Progress](https://progress-bar.dev/50/?scale=100&suffix=%) |
+| HTML       | ![Progress](https://progress-bar.dev/70/?scale=100&suffix=%) |
+| CSS        | ![Progress](https://progress-bar.dev/65/?scale=100&suffix=%) |
+| JavaScript | ![Progress](https://progress-bar.dev/70/?scale=100&suffix=%) |
+| React.js   | ![Progress](https://progress-bar.dev/65/?scale=100&suffix=%) |
+| MySQL      | ![Progress](https://progress-bar.dev/50/?scale=100&suffix=%) |
+| MongoDB    | ![Progress](https://progress-bar.dev/45/?scale=100&suffix=%) |
+
+---
+
+✨ Always open to collaborating on exciting projects and learning opportunities!  
