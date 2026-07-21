@@ -48,22 +48,23 @@ pipelines on **Oracle Integration Cloud**, alongside full-stack work on the **ME
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<!-- Pin cards — re-enable (remove this comment wrapper) once repo names below are
+     confirmed exact (case-sensitive) against your GitHub repo list. They were
+     failing to load, most likely because of a repo-name/casing mismatch.
 
 <a href="https://hound-vault.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreeKrishnnaa&repo=HoundVault&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreeKrishnnaa&repo=HoundVault&theme=tokyonight" />
 </a>
 <a href="https://github.com/SreeKrishnnaa/E-bill-generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreeKrishnnaa&repo=E-bill-generator&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreeKrishnnaa&repo=E-bill-generator&theme=tokyonight" />
 </a>
 <a href="https://github.com/SreeKrishnnaa/miniproject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreeKrishnnaa&repo=miniproject&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreeKrishnnaa&repo=miniproject&theme=tokyonight" />
 </a>
 <a href="https://github.com/SreeKrishnnaa/SIH_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreeKrishnnaa&repo=SIH_Project&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreeKrishnnaa&repo=SIH_Project&theme=tokyonight" />
 </a>
-
-</div>
+-->
 
 | Project | Description |
 |---|---|
@@ -76,18 +77,9 @@ pipelines on **Oracle Integration Cloud**, alongside full-stack work on the **ME
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SreeKrishnnaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SreeKrishnnaa&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeKrishnnaa&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 📫 Contact Me
 
