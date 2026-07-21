@@ -29,7 +29,7 @@ pipelines on **Oracle Integration Cloud**, alongside full-stack work on the **ME
 
 <div align="center">
 
-[![View Portfolio](https://img.shields.io/badge/View_Portfolio-Visit_Site-0E9488?style=for-the-badge&logo=vercel&logoColor=white)](https://sreekrishnnaa.github.io/Portfoilio1/)
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-Visit_Site-0E9488?style=for-the-badge&logo=vercel&logoColor=white)](https://sreekrishnnaa.github.io/MyPage/)
 [![Behance](https://img.shields.io/badge/Behance-Creative_Work-6D46E0?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/SreeKrishnnaaAnand)
 
 </div>
